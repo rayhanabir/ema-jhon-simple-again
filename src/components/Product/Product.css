@@ -1,0 +1,25 @@
+.products{
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+    margin-right: 5px;
+}
+.product-img{
+    margin-right: 10px;
+    
+}
+.pd-name{
+    color: rgb(28, 28, 223);
+    font-weight: 400;
+}
+.btn-regular{
+    background-color: orange;
+    width: 130px;
+    height: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    border:none;
+    color:rgb(49, 47, 47);
+    font-size: 15px;
+    font-weight: 600;
+}
